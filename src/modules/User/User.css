@@ -1,0 +1,20 @@
+.user-details {
+    color: #656566;
+}
+
+.user-details__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.user-details__icon {
+    width: 25px;
+    margin-right: 20px;
+    color: #2696EF;
+}
+
+.user-details__info {
+    max-width: 200px;
+}

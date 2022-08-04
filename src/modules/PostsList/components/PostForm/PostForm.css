@@ -1,0 +1,12 @@
+.post-form {
+    margin-bottom: 30px;
+}
+
+.post-form__field-error {
+    margin-left: 10px;
+    color: red;
+}
+
+.post-form__input-wrapper {
+    margin-bottom: 20px;
+}
